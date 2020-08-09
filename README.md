@@ -1,1 +1,1 @@
-# InterViewBitCodingSolution
+# sqare root of number
