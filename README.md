@@ -1,1 +1,1 @@
-# sqare root of number
+# Sol
